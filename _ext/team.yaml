@@ -474,3 +474,12 @@ team:
     email: boris.shapkin@awi.de
     roles:
       - OHW25 Fellow
+
+  - name: Dwight Owens
+    title: Manager, Impact & Capacity Development
+    affiliate: Ocean Networks Canada
+    image_url: https://avatars.githubusercontent.com/u/54121935?v=4
+    github_user: nerdondo
+    email: dwowens@oceannetworks.ca
+    roles:
+      - OHW25 Fellow
